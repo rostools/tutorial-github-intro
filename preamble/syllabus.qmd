@@ -1,8 +1,32 @@
 # Syllabus {#sec-syllabus}
 
-Objectives:
+{{< text_snippet wip >}}
 
--   Item 1
+We designed the tutorial so that by the end of it, the **learning
+outcome** we hope you will have is:
+
+-   Explain in simple terms what GitHub does and to feel confident enough 
+    to navigate GitHub to work with files as well as GitHub Issues.
+
+To break this down, we designed the tutorial into specific **learning
+objectives** so that you will:
+
+-   List and describe Git's core functionality and purpose, and how
+    GitHub expands on that.
+-   Explain the difference between GitHub and Git.
+-   Explain how GitHub differs from services like OneDrive or Dropbox,
+    and what GitHub's advantage is over them.
+-   Interact with and navigate GitHub enough to create, edit, rename,
+    and delete files and folders.
+-   Create GitHub "Issues" to start discussions, request for some help,
+    or list to-do tasks, as well as to comment on existing "Issues".
+-   Explain the benefits to using Issues within the same platform as
+    your files.
+
+More concretely and more simply, during the tutorial we will:
+
+-   Create and edit text files on GitHub.
+-   Create Issues and comment on them.
 
 ## Is this course for you? {#sec-is-it-for-you}
 
